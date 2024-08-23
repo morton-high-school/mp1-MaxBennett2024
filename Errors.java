@@ -2,7 +2,7 @@
 // Please find and fix all of the errors without changing the intended purpose of the code.
 
 Public class Error{
-  public static main(string[] args){
+  public static void main(String[] args){
     String name = "Alan";
     String animal = "duck";
     System.out.println("My name is " + name + " and I am a " + animal + ".");
