@@ -1,6 +1,6 @@
 Create a new class called AboutMe.
 Print out three lines to the command prompt that include information about you.
-Public class AboutMe{
+public class AboutMe{
     public static main(String[] args){
      System.out.println("Hi! My name is Max Bennett, and I am a sophomore at MHS.");
      System.out.println("I have two younger sisters and a dog and an awesome family.);
