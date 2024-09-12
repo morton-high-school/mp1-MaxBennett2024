@@ -1,7 +1,7 @@
 // This code is riddled with errors.
 // Please find and fix all of the errors without changing the intended purpose of the code.
 
-public class Error{
+public class Errors{
   public static void main(String[] args){
     String name = "Alan";
     String animal = "duck";
